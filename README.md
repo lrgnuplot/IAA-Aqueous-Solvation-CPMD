@@ -44,9 +44,9 @@ Numerical data and scripts used to visualize the time evolution of solvent coord
 
 These files support the results presented in Figure 4.
 
-### 05_Figure_5_PMF
+### 05_Figure_5_Helmholtz_Free_Energies
 
-Numerical data and plotting scripts used to generate the RDF-derived potentials of mean force (PMFs) for the three principal IAA–water interactions presented in Figure 5.
+Numerical data and plotting scripts used to generate the Helmholtz free-energy profiles for the three principal IAA–water interactions presented in Figure 5.
 
 ### 06_Table_1_Geometry
 
